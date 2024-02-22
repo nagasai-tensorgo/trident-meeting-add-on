@@ -1,0 +1,21 @@
+{
+  "timeZone": "GMT",
+  "addOns": {
+    "common": {
+      "name": "Trident",
+      "logoUrl": "https://i.ibb.co/HXkznr0/Tr.png",
+      "layoutProperties": {
+        "primaryColor": "#1d4ed8",
+        "secondaryColor": "#1e40af"
+      }
+    },
+    "meet": {
+      "web": {}
+    }
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/calendar.addons.execute",
+    "https://www.googleapis.com/auth/calendar.addons.current.event.read",
+    "https://www.googleapis.com/auth/calendar.addons.current.event.write"
+  ]
+}
